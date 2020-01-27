@@ -1,0 +1,10 @@
+*{
+    display: block;
+}
+.logo{
+    width: 50px;
+}
+
+p{
+    text-align: center;
+}
