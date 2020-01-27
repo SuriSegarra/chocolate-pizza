@@ -1,10 +1,5 @@
-*{
-    display: block;
-}
-.logo{
-    width: 50px;
-}
-
-p{
+p {
     text-align: center;
+    font-size: 20px;    
+    grid-template-columns: min-content;
 }
