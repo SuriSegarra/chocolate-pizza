@@ -1,11 +1,17 @@
+
 header { 
     padding-bottom: 25px;
     border-bottom: 15px solid #ddd;
 }
 
+
 .logo{
     width: 50px;
 }
+
+
+.social #facebook-icon {
+    background: url('./assets/fb-icon.png');
 
 header {
     display: flex;
@@ -30,5 +36,6 @@ header ul {
 
 .social #facebook-icon {
 /*    background: url('./assets/fb-icon.png') no-repeat; */
+
 
 }
