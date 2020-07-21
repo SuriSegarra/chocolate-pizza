@@ -1,3 +1,4 @@
+
 * { box-sizing: border-box; }
 
 body .container {
@@ -12,4 +13,7 @@ p {
 main p {
     font-size: 1.2rem;
     text-indent: 2rem;
-}
+p {
+    text-align: center;
+    font-size: 20px;    
+    grid-template-columns: min-content;
